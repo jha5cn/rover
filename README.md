@@ -13,3 +13,4 @@ Instructions
 Endpoints
 
     /api/meetup -> Gets events tagged with vue-js from meetup.com
+    /api/vuevixen -> Gets events from vuevixen.org
